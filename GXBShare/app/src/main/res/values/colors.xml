@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <!--波纹点击颜色-->
+    <!--白色点击色-->
+    <color name="ripple_white">#7faaaaaa</color>
+    <color name="selected_white">#cceeeeee</color>
+    <!--涟绮颜色,便深色-->
+    <color name="ripple_dark">#7F444444</color>
+
+
+    <color name="background">#f5f5f5</color>
+    <color name="head_background">#ffcdcdcd</color>
+    <color name="background_red">#ff4444</color>
+    <color name="divide_gray">#ffdddddd</color>
+    <color name="text_white">#ffffff</color>
+    <color name="text_black">#ff444444</color>
+    <color name="text_gray">#ff999999</color>
+    <color name="text_light_gray">#ffaaaaaa</color>
+    <color name="text_red">#ffed4c4d</color>
+
+    <color name="text_white_transparent">#77ffffff</color>
+
+
+    <!--以下是按钮颜色-->
+    <color name="button_red">#f55656</color>
+    <color name="button_red_focus">#d54546</color>
+    <color name="button_red_unenabled">#f2c7cb</color>
+
+    <color name="weather_pm_blue">#32cd32</color> <!--优-->
+    <color name="weather_pm_yellow">#d9d900</color> <!--良-->
+    <color name="weather_pm_orange">#ff7f00</color> <!--轻度-->
+    <color name="weather_pm_red">#ff2400</color> <!--重度-->
+</resources>

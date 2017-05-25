@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--字体相关主题-->
+    <style name="textTitle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/text_gray</item>
+        <item name="android:textSize">@dimen/text_20dp</item>
+    </style>
+    <!--tab-->
+    <style name="textTabItem">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/text_gray</item>
+        <item name="android:textSize">@dimen/text_12dp</item>
+    </style>
+    <!--新闻标题-->
+    <style name="textNewsListTitle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/text_black</item>
+        <item name="android:textSize">@dimen/text_18dp</item>
+    </style>
+    <!--新闻其他提示文字-->
+    <style name="textNewsListTips">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/text_gray</item>
+        <item name="android:textSize">@dimen/text_10dp</item>
+    </style>
+    <!--我的 相关item-->
+    <style name="textMineItem">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/text_black</item>
+        <item name="android:textSize">@dimen/text_14dp</item>
+    </style>
+
+
+    <!--<style name="button" parent="Widget.AppCompat.ActionButton">-->
+        <!--<item name="android:background">@drawable/byb_selector_btn_red_corner_border</item>-->
+        <!--<item name="android:textAppearance">@style/text_14_white</item>-->
+        <!--<item name="android:selectable">false</item>-->
+        <!--<item name="android:minHeight">40dip</item>-->
+        <!--<item name="android:minWidth">80dip</item>-->
+    <!--</style>-->
+</resources>
